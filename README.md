@@ -1,4 +1,4 @@
-ENUNCIADO
+ENUNCIADO ::
 Uma empresa de mudanças precisa de um sistema para registrar os objetos que transporta. Cada objeto a
 ser transportado recebe um identificador único, uma descrição e um valor estimado. Os objetos são
 armazenados em caixas. Cada caixa é identificada por uma etiqueta que contém um número de série de 3
@@ -6,7 +6,7 @@ dígitos (e inicia em 100), a quantidade de objetos armazenados, o valor total d
 funcionário que a lacrou.
 
 
-CLASSE App E MÉTODO main
+CLASSE App E MÉTODO main ::
 O método main da classe principal App deverá realizar no mínimo as seguintes operações:
 a) Criar pelo menos 8 objetos a serem transportados.
 b) Criar pelo menos 2 caixas de transporte.
